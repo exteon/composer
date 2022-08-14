@@ -62,7 +62,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "2.3-dev"
+            "dev-main": "2.3-dev",
+            "dev-dev": "2.3.x"
         },
         "phpstan": {
             "includes": [
